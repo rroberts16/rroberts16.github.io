@@ -1,0 +1,7 @@
+
+
+/public/        # Hugo's generated site files (we don't version these)
+/resources/     # Hugo's resource cache
+.DS_Store       # macOS system files
+Thumbs.db       # Windows thumbnail cache
+.hugo_build.lock # Hugo build lock file
