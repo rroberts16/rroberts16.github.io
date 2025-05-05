@@ -32,7 +32,7 @@ jobs:
     env:
       # Use a recent Hugo version (check latest on Hugo's GitHub releases)
       # Extended version is often recommended for theme compatibility
-      HUGO_VERSION: 0.125.5
+      HUGO_VERSION: 0.147.0
     steps:
       - name: Install Hugo CLI
         run: |
